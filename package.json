@@ -1,0 +1,22 @@
+{
+  "name": "dia-01",
+  "version": "1.0.0",
+  "description": "Melhor gerador de senha",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite --open",
+    "build": "vite build",
+    "lint": "eslin ./src"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "dependencies": {
+    "validator": "^13.9.0",
+    "vite": "^4.1.1"
+  },
+  "devDependencies": {
+    "@trybe/eslint-config-frontend": "1.8.3"
+  }
+}
